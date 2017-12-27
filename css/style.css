@@ -95,6 +95,26 @@ address span{
   font-size: 18px;
   color: #0b0c0c;
 }
+.fa-git:before,
+.fa-bitbucket:before,
+.fa-trello:before,
+.fa-google:before,
+.fa-linux:before,
+.fa-stack-overflow:before,
+.fa-slack:before,
+.fa-bitbucket:before,
+.devicon-angularjs-plain:before,
+.devicon-amazonwebservices-original:before,
+.devicon-bootstrap-plain:before,
+.devicon-java-plain:before,
+.devicon-javascript-plain:before,
+.devicon-moodle-plain:before,
+.devicon-sourcetree-plain:before,
+.devicon-visualstudio-plain:before{
+  margin-right: 9px;
+  font-size: 30px;
+  color: #717573;
+}
 .details_header{
 	padding: 0em 1em 0 2em;
 }
@@ -162,7 +182,7 @@ address span{
 }
 .skill1,.skill2{
 	 float:left;
-	 width:30%;
+	 width:100%;
 }
 .skill1 h4,.skill2 h4{
 	color:#333;
